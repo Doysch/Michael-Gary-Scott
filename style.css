@@ -4,6 +4,28 @@ html {
   background-size: cover;
 }
 
+h1 {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 5rem;
+  text-align: center;
+  padding-top: 10rem;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 3rem;
+  text-align: center;
+  font-weight: bolder;
+}
+
+p {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 1.5rem;
+  text-align: center;
+  
+}
+
 body,html {
   margin: 0;
   padding: 0;
